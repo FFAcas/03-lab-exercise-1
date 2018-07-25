@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03-lab-exercise</string>
+    <string name="edit_message"></string>
+    <string name="button_send"></string>
+</resources>
